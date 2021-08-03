@@ -1,0 +1,35 @@
+.skill-set-div {
+  display: flex;
+  justify-content: space-between; 
+  width: 70%;
+  margin: 0 15%;
+}
+
+.skillset-avatar-img {
+  /* border: 2px solid #2C394B; */
+  border-radius: 50%;  
+  height: 220px;
+  width: 220px;
+  vertical-align: middle; 
+  margin: 30px 15px 0; 
+}
+
+.skill-set-col {
+  text-align: center;
+  width: 25%;   
+}
+
+.about-me-heading {
+  font-family: 'Kanit', sans-serif;
+  font-size: 45px;
+}
+
+.about-me-text {
+  font-family: 'Gowun Dodum', sans-serif;
+  font-size: 25px;
+}
+
+.skill-set-desc {
+  font-family: 'Comfortaa', cursive;
+  font-size: 25px;
+}
