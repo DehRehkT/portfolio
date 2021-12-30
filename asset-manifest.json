@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1374e367.chunk.css",
+    "main.js": "/static/js/main.a342c5f3.chunk.js",
+    "main.js.map": "/static/js/main.a342c5f3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8aa7913b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8aa7913b.js.map",
+    "static/js/2.3d3854f4.chunk.js": "/static/js/2.3d3854f4.chunk.js",
+    "static/js/2.3d3854f4.chunk.js.map": "/static/js/2.3d3854f4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1374e367.chunk.css.map": "/static/css/main.1374e367.chunk.css.map",
+    "static/js/2.3d3854f4.chunk.js.LICENSE.txt": "/static/js/2.3d3854f4.chunk.js.LICENSE.txt",
+    "static/media/cybersecurity.94248864.jpg": "/static/media/cybersecurity.94248864.jpg",
+    "static/media/embedded-systems.9266e975.png": "/static/media/embedded-systems.9266e975.png",
+    "static/media/industrial-automation.498d8074.jpg": "/static/media/industrial-automation.498d8074.jpg",
+    "static/media/web-development.8691ca2d.png": "/static/media/web-development.8691ca2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa7913b.js",
+    "static/js/2.3d3854f4.chunk.js",
+    "static/css/main.1374e367.chunk.css",
+    "static/js/main.a342c5f3.chunk.js"
+  ]
+}
