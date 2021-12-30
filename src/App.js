@@ -7,16 +7,13 @@ function App() {
     <div className="App">
       <h1 className='about-me-heading'> Hello, I'm Derek </h1>
       <p className='about-me-text'> 
-        I am passionate about technology.
+        I am a Software & Electronics Engineer.
       </p>
+      <br/>             
       <p className='about-me-text'>
-         I am currently employed as an Automation Engineer (Industrial Control Systems). <br/> I spend            
-         my free time building Embedded Systems and Web Applications <br/>
-        projects.        
-      </p>
-      <p className='about-me-text'> 
-        I am experienced in the areas below & I am open to collaborative and freelance opportunities.
-      </p>
+        I work on Industrial Control Systems (PLC and SCADA), Embedded Systems, Web and Desktop Applications.<br/>
+      </p>   
+
       <SkillSetAvatar />      
     </div>
   );

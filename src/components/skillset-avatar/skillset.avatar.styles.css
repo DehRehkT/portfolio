@@ -11,7 +11,7 @@
   height: 220px;
   width: 220px;
   vertical-align: middle; 
-  margin: 30px 15px 0; 
+  margin: 30px 15px 20px; 
 }
 
 .skill-set-col {
@@ -22,6 +22,7 @@
 .about-me-heading {
   font-family: 'Kanit', sans-serif;
   font-size: 45px;
+  margin: 60px 20px 30px;
 }
 
 .about-me-text {

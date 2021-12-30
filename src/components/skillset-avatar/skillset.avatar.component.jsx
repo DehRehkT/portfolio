@@ -14,18 +14,10 @@ function SkillSetAvatar() {
       <Col sm={12} md={6} lg={3} className='skill-set-col'>
         <img 
           className="skillset-avatar-img" 
-          src={webDev} 
-          alt="skillset avatar_img" 
-        />
-        <p className='skill-set-desc'> Web Development </p>
-      </Col>
-      <Col sm={12} md={6} lg={3} className='skill-set-col'>
-        <img 
-          className="skillset-avatar-img" 
           src={industrialAutomation} 
           alt="skillset avatar_img" 
         />
-        <p className='skill-set-desc'> Industrial Automation </p>
+        <p className='skill-set-desc'> Industrial Automation </p>        
       </Col>
       <Col sm={12} md={6} lg={3} className='skill-set-col'>
         <img 
@@ -35,6 +27,14 @@ function SkillSetAvatar() {
         />
         <p className='skill-set-desc'> Embedded Systems </p>
       </Col>
+      <Col sm={12} md={6} lg={3} className='skill-set-col'>
+        <img 
+          className="skillset-avatar-img" 
+          src={webDev} 
+          alt="skillset avatar_img" 
+        />        
+        <p className='skill-set-desc'> Web Development </p>
+      </Col>       
       <Col sm={12} md={6} lg={3} className='skill-set-col'>
         <img 
           className="skillset-avatar-img" 
