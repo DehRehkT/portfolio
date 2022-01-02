@@ -5,6 +5,14 @@
   margin: 0 15%;
 }
 
+.skillset-container {
+  margin-bottom: 100px;
+}
+
+.skillset-row {
+  margin: 40px 40px 60px;
+}
+
 .skillset-avatar-img {
   /* border: 2px solid #2C394B; */
   border-radius: 50%;  

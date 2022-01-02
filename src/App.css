@@ -28,6 +28,29 @@
   color: #61dafb;
 }
 
+.my-title {
+  font-family: 'Comfortaa', cursive;
+  font-size: 30px;
+}
+
+.about-me-text {
+  margin: 2px 40px;
+  font-family: 'Comfortaa', cursive;
+  font-size: 18px;
+}
+
+.copyright {
+  position: fixed;
+  bottom: 0;
+  background-color: #1B2021;
+  color: #ffffff;
+  width: 100%;
+}
+
+.copyright-text {
+  padding: 15px 5px 5px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
